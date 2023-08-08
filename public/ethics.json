@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "type": "Mission",
+    "tittle": "Empowering Global Construction through Unparalleled Trading and Logistics Solutions",
+    "des": "Building Connections, Delivering Success: Empowering Global Construction with Unparalleled Trading and Logistics Solutions.",
+    "img": "/src/assets/images/ethics1.png",
+    "steps": [
+      "Empowering Global Construction",
+      "Unparalleled Trading and Logistics Solutions",
+      "Driving Excellence"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Vision",
+    "tittle": "Pioneering Innovation and Efficiency in Global Construction Material Trading and Logistics",
+    "des": "Driving Innovation and Efficiency in Global Construction Material Trading and Logistics.",
+    "img": "/src/assets/images/ethics2.png",
+    "steps": [
+      "Innovating Global Construction Trading",
+      "Preferred Partner for International Trading",
+      "Transforming Building Material Sourcing"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Core Values",
+    "tittle": "Integrity, Trust, and Transparency: Building Strong Relationships Based on Honesty and Reliability",
+    "des": "Forging Bonds through Integrity and Transparency: Building Strong Relationships on Honesty and Reliability.",
+    "img": "/src/assets/images/ethics3.png",
+    "steps": [
+      "High Quality",
+      "Excellent Customer Service",
+      "Long term Business Relationship",
+      "Continuous Improvement",
+      "Teamwork",
+      "Professionalism",
+      "Integrity",
+      "Responsiveness"
+    ]
+  }
+]

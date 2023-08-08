@@ -1,0 +1,16 @@
+.gallery_tittle {
+  margin-bottom: 40px;
+  text-align: left;
+}
+.gallery {
+  margin-bottom: 80px;
+}
+/* -------------small device------- */
+@media (max-width: 767px) {
+  .gallery {
+    text-align: center;
+  }
+  .gallery_tittle {
+    text-align: center;
+  }
+}

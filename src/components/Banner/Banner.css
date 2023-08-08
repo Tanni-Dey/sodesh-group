@@ -1,0 +1,79 @@
+.banner {
+  margin: 80px 0;
+}
+.banner_img {
+  margin-top: 80px;
+}
+.heading {
+  color: #4f4d55;
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+
+.banner_tittle {
+  color: #0a090b;
+  font-family: Outfit;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -1.8px;
+  margin-bottom: 24px;
+}
+.banner_p {
+  color: #4f4d55;
+  text-align: center;
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  max-width: 70%;
+}
+.project_btn {
+  padding: 8px 24px;
+  border-radius: 7px;
+  border: 1px solid #e6e6e6;
+  background: #fff;
+  color: black;
+  font-family: Outfit;
+  font-size: 0.88rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.02px;
+  margin-right: 12px;
+}
+.banner_contact_btn {
+  padding: 8px 24px !important;
+}
+
+/* ---------------responsive------------ */
+
+/* --------medium device----------- */
+@media (max-width: 991px) {
+  .banner {
+    margin: 40px 0;
+  }
+  .banner_tittle {
+    font-size: 37px;
+  }
+  .banner_img {
+    margin-top: 40px;
+  }
+}
+
+/* -------------small device------- */
+@media (max-width: 767px) {
+  .banner_p {
+    max-width: 100%;
+  }
+}
